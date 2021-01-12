@@ -33,7 +33,6 @@ while($mydata=mysqli_fetch_array($run_query)){
 </tr>
 <?php
 }
-
 ?>
 
 </table>
